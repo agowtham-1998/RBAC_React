@@ -1,0 +1,38 @@
+{
+  "users": [
+    {
+      "id": "6ae6",
+      "name": "Gowtham",
+      "email": "agowtham8991@gmail.com",
+      "role": "Users",
+      "status": "Active"
+    }
+  ],
+  "roles": [
+    {
+      "id": "ac7e",
+      "name": "Admin",
+      "permissions": [
+        "1"
+      ]
+    }
+  ],
+  "permissions": [
+    {
+      "id": "1",
+      "name": "Read"
+    },
+    {
+      "id": "2",
+      "name": "Write"
+    },
+    {
+      "id": "3",
+      "name": "Delete"
+    },
+    {
+      "id": "4",
+      "name": "Update"
+    }
+  ]
+}
